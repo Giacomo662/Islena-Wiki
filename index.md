@@ -10,7 +10,7 @@ Hopefully, GitHub will be able to handle smoothly the transition to a static web
 Anyway. Here in the following is an index to navigate through the wiki.
 
 - [About me](about.md)
-- [Character index](Characters/Characterindex.md)
+- [Character index](Characterindex.md)
 - [Places](Places/Places.md)
 - [Loot](Loot/Loot.md)
 - [Sessions](Sessions/Logsession.md)
