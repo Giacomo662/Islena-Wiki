@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Loot session by session
+title: Loot
 ---
 
 ## *Sessione 1*
