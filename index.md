@@ -3,7 +3,17 @@ layout: default
 title: Indice
 ---
 
-# Benvenuti
+<style>
+  body {
+    background-image: url('/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+</style>
+
+# Homepage
 
 This is the homepage of the Official (?) Islena-setting wiki. It is a collection of all the informations us players are given access to as we progress through the story. 
 Hopefully, GitHub will be able to handle smoothly the transition to a static webpage, and I won't have to cry in a corner for the rest of my life.
