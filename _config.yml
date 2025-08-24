@@ -8,12 +8,12 @@ nav:
   - title: Homepage
     url: /
   - title: About me
-    url: /about.md
+    url: /about
   - title: Character index
-    url: /Characterindex.md
+    url: /Characterindex
   - title: Loot
-    url: /Loot/Loot.md
+    url: /Loot/Loot
   - title: Places
-    url: /Places/Places.md
+    url: /Places/Places
   - title: Sessioni
-    url: /Sessioni/Logsessions.md
+    url: /Sessioni/Logsessions
