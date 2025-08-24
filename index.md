@@ -9,6 +9,7 @@ This is the homepage of the Official (?) Islena-setting wiki. It is a collection
 Hopefully, GitHub will be able to handle smoothly the transition to a static webpage, and I won't have to cry in a corner for the rest of my life.
 Anyway. Here in the following is an index to navigate through the wiki.
 
+- [Homepage](index.md)
 - [About me](about.md)
 - [Character index](Characterindex.md)
 - [Places](Places/Places.md)
