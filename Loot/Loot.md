@@ -1,7 +1,5 @@
 ## *Sessione 1*
 
-Data 23/08/2025
-
 ### *Banditi nel bosco*
 
 * 2xPugnale pft;
