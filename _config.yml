@@ -6,8 +6,8 @@ theme: minima
 # Custom navigation links
 header_pages:
   - index.md
-  - about.md
   - Characterindex.md
   - Loot/Loot.md
   - Places/Places.md
   - Sessioni/Logsessions.md
+  - about.md
