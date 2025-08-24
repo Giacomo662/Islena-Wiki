@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Page Title
+title: Character index
 ---
 
 # Disclaimer
