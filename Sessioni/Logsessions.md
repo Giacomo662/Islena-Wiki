@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sessions log
+title: Sessions
 ---
 # Sessione 1
 
