@@ -3,16 +3,6 @@ layout: default
 title: Indice
 ---
 
-<style>
-  body {
-    background-image: url('/assets/bg.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-  }
-</style>
-
 # Homepage
 
 This is the homepage of the Official (?) Islena-setting wiki. It is a collection of all the informations us players are given access to as we progress through the story. 
