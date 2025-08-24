@@ -9,7 +9,7 @@
 
 ### Willofen
 
-È un piccolo villaggio negli ***Stati Uniti di Caralla***. Non ha guardie cittadine. Ad investigare hanno mandato guardie cittadine da [Smeraldopoli](#Smeraldopoli). C'è una taverna: "Da [Alli](Characters/Alli.md)". Stanno un po' con le pezze al culo, quindi le cose costano un po' di più. Da Willofen passa il fiume *Silla*.
+È un piccolo villaggio negli ***Stati Uniti di Caralla***. Non ha guardie cittadine. Ad investigare hanno mandato guardie cittadine da [Smeraldopoli](#Smeraldopoli). C'è una taverna: "Da [Alli](../Characters/Alli.md)". Stanno un po' con le pezze al culo, quindi le cose costano un po' di più. Da Willofen passa il fiume *Silla*.
 
 #### Boschetto
 
