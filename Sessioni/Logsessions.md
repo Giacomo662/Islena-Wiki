@@ -6,13 +6,13 @@ title: Sessions
 
 # Sessione 1
 
-La sessione inizia nella taverna di "Da Alli" a [Willofen](../Places/Places.md).
+La sessione inizia nella taverna di "Da halli" a [Willofen](../Places/Places.md).
 È il 13 Risveglio 1183/483 P.Q. (*Post Quoti*, dall'ultima battaglia).
 Velgrynd e Arwen Bombadil si incontrano con "Il Corvo".
 Il party si forma dopo l'incontro in taverna.
 
 Ci sono dei banditi che impediscono le comunicazioni e gli scambi tra Willofen e Smeraldopoli. Stanno accampati in un bosco. Dice ci sia una casa abbandonata a cui ci avrebbe portato un druido. 
-Si scopre qualche cosetta sul marito di Alli.
+Si scopre qualche cosetta sul marito di halli.
 Incontriamo il druido Gendel con il lupo Alberto e lo pseudo-sindaco [Gavriel Vecyo](../Characters/Gavriel_Vecyo.md).
 
 Dei tizi con delle divise bianche e verdi sono morti (probabilmente da circa una settimana) nel boschetto mentre allestivano un accampamento. Sono equipaggiati random, ma tutto lascia pensare che siano spade.
