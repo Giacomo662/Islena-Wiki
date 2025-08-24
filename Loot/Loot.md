@@ -1,3 +1,8 @@
+---
+layout: default
+title: Loot session by session
+---
+
 ## *Sessione 1*
 
 ### *Banditi nel bosco*
