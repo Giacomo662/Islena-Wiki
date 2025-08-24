@@ -5,12 +5,12 @@ title: Homepage
 
 <style>
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1c1c1c;
-    color: #eee;
-  }
-  a {
+  nav a {
     color: #8ab4f8;
+  }
+
+  nav a:hover {
+    color: #ffffff;
   }
 }
 </style>
