@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Indice
+title: Homepage
 ---
 
 # Homepage
