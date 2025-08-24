@@ -2,3 +2,18 @@
 title: Wiki
 description: A man-handled wiki for the Islena-D&D campaign.
 theme: minima
+
+# Custom navigation links
+nav:
+  - title: Homepage
+    url: /
+  - title: About me
+    url: /about.md
+  - title: Character index
+    url: /Characterindex.md
+  - title: Loot
+    url: /Loot/Loot.md
+  - title: Places
+    url: /Places/Places.md
+  - title: Sessioni
+    url: /Sessioni/Logsessions.md
