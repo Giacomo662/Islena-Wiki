@@ -1,2 +1,0 @@
-* [[Gavriel Vecyo]]
-* [[Alli]]
