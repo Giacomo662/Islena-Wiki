@@ -1,1 +1,1 @@
-È un tizio a [[Places#Willofen|Willofen]]. È tipo il sindaco, ma solo informalmente.
+È un tizio a [Willofen](wiki/Places/Places.md)(#Willofen). È tipo il sindaco, ma solo informalmente.
