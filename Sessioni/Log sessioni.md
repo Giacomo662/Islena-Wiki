@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Sessions log
+---
 # Sessione 1
 
 La sessione inizia nella taverna di "Da Alli" a [Willofen](../Places/Places.md).
