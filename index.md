@@ -3,6 +3,18 @@ layout: default
 title: Homepage
 ---
 
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1c1c;
+    color: #eee;
+  }
+  a {
+    color: #8ab4f8;
+  }
+}
+</style>
+
 # Homepage
 
 This is the homepage of the Official (?) Islena-setting wiki. It is a collection of all the informations us players are given access to as we progress through the story. 
