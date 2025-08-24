@@ -1,4 +1,14 @@
-
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1c1c;
+    color: #eee;
+  }
+  a {
+    color: #8ab4f8;
+  }
+}
+</style>
 
 Halli ha un figlio, molto interessato agli esploratori ed agli avventurieri. Il figlio è un mezz'elfo; si chiama Sepu. 
 Halli gestisce una piccola taverna a [Willofen](../Places/Places.md). Sepu aiuta nella taverna. La sua taverna è leggermente costosa perché la città sta con le pezze al culo.
