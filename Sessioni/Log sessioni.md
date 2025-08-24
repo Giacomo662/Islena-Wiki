@@ -1,8 +1,6 @@
 
 # Sessione 1
 
-23/08/2025
-
 La sessione inizia nella taverna di "Da Alli" a [Willofen](../Places/Places.md).
 È il 13 Risveglio 1183/483 P.Q. (*Post Quoti*, dall'ultima battaglia).
 Velgrynd e Arwen Bombadil si incontrano con "Il Corvo".
@@ -19,4 +17,4 @@ Combattimento con uno gnomo ed un halfling [banditi](../Loot/Loot.md) nelle pros
 
 ## Sessione 2
 
-??/??/2025
+??
