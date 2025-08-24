@@ -1,13 +1,4 @@
-<style>
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1c1c1c;
-    color: #eee;
-  }
-  a {
-    color: #8ab4f8;
-  }
-}
+
 </style>
 
 I'm just your average bored physicist and amateur writer that, in his rare free time, had decided to create a public wiki for a friend's D&D 3.5e campaign.
