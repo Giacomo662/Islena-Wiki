@@ -2,6 +2,19 @@
 layout: default
 title: Sessions
 ---
+
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1c1c;
+    color: #eee;
+  }
+  a {
+    color: #8ab4f8;
+  }
+}
+</style>
+
 # Sessione 1
 
 La sessione inizia nella taverna di "Da Alli" a [Willofen](../Places/Places.md).
