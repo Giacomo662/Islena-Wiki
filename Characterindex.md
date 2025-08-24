@@ -9,5 +9,5 @@ Questa pagina è un indice che rimanda alle pagine dettagliate (quanto dettaglia
 Informazioni sui componenti del nostro party non verranno caricate.
 
 - [Gavriel Vecyo](Characters/Gavriel_Vecyo.md)
-- [Alli](Characters/Alli.md)
+- [Halli](Characters/Halli.md)
 - Cooming soon.
