@@ -13,6 +13,6 @@ Anyway. Here in the following is an index to navigate through the wiki.
 - [Character index](Characterindex.md)
 - [Places](Places/Places.md)
 - [Loot](Loot/Loot.md)
-- [Sessions](Sessions/Logsession.md)
+- [Sessions](Sessioni/Logsession.md)
 
 
