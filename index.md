@@ -3,17 +3,6 @@ layout: default
 title: Homepage
 ---
 
-<style>
-@media (prefers-color-scheme: dark) {
-  nav a {
-    color: #8ab4f8;
-  }
-
-  nav a:hover {
-    color: #ffffff;
-  }
-}
-</style>
 
 # Homepage
 
