@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: About me
 ---
 
 I'm just your average bored physicist and amateur writer that, in his rare free time, had decided to create a public wiki for a friend's D&D 3.5e campaign.
