@@ -10,4 +10,5 @@ Informazioni sui componenti del nostro party non verranno caricate.
 
 - [Gavriel Vecyo](Characters/Gavriel_Vecyo.md)
 - [Halli](Characters/Halli.md)
+- [Avvizzito](Characters/Avvizzito.md)
 - Cooming soon.
