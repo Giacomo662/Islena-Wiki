@@ -22,4 +22,8 @@ Combattimento con uno gnomo ed un halfling [banditi](../Loot/Loot.md) nelle pros
 
 ## Sessione 2
 
-??
+Continua l'esplorazione del dungeon nascosto.
+Troviamo un corridoio blu mezzanotte con le stelle. È un corridoio molto lungo. Ha delle increspature disegnate che crescono in onde che si infrangono contro la porta in fondo al corridoio. Potrebbe essere una raffigurazione del Mare di Stelle, ma non è esattamente fedele (potrebbe essere una metafora).
+Il portone conduce ad una stanza affrescata con onde molto mosse che si infrangono su una tomba sopraelevata. C'era un'ombra. Si presenta l'[Avvizzito](../Characters/Avvizzito.md) che yappa qualcosa prima di andarsene.
+
+**SALIAMO AL LIVELLO 4 SIUM!!**
