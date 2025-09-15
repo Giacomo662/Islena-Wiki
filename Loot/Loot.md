@@ -29,6 +29,8 @@ title: Loot
 
 ## *Sessione 2*
 
-??
+###  *Dungeon sotto la Chiesa pt. 2*
 
+* Scudo pesante di metallo molto bello pft;
+* 9 mo;
 
