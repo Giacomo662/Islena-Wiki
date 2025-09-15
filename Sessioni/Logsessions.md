@@ -27,3 +27,9 @@ Troviamo un corridoio blu mezzanotte con le stelle. È un corridoio molto lungo.
 Il portone conduce ad una stanza affrescata con onde molto mosse che si infrangono su una tomba sopraelevata. C'era un'ombra. Si presenta l'[Avvizzito](../Characters/Avvizzito.md) che yappa qualcosa prima di andarsene.
 
 **SALIAMO AL LIVELLO 4 SIUM!!**
+
+Halli vorrebbe che portassimo un pacco un pacco al fratello di suo marito, Jisu Calerondo, a Smeraldopoli.
+Riceviamo un assegno da riscattare a Smeraldopoli da parte di Gavriel Vecyo. Ci incamminiamo verso Smeraldopoli ma veniamo intercettati da Sepu. Le truppe di Vega stanno perseguendo (per qualche motivo) la gente del villaggio. 
+Gavriel Vecyo però non lo sapeva e si impanica. Torna con un cubo che ce lo dà e portarlo da Ben Kenobi (verso Smeraldopoli). **NON** lo deve avere Vega.
+Fuggiamo in barca sul fiume Silla. Veniamo attaccati da un serpente grosso.
+Arriviamo a Smeraldopoli.
